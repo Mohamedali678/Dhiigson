@@ -9,7 +9,10 @@ function Result({resultText, title, color}){
             <h1 className="font-bold text-2xl" style={{color: color}} > {title} </h1>
             <h1>{resultText}</h1>
             </ul>
+            <a href="https://wa.me/+252615624585">
+
         <button  className="bg-red-500 text-white p-2 mt-10 rounded-full w-[300px] sm:w-[400px]">Contact doctor</button>
+            </a>
     </div>
 
     </div>
